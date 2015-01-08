@@ -2,7 +2,7 @@ package helloworld2014;
 
 /**
  * Hello World
- * @author Len Payne
+ * @author Mark Russell
  */
 public class HelloWorld2014 {
 
